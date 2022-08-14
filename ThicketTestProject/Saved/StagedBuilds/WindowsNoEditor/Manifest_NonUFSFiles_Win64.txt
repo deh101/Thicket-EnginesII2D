@@ -1,0 +1,26 @@
+Engine/Binaries/Win64/UE4Game.exe	2022-07-10T19:54:38.167Z
+Engine/Binaries/Win64/OpenImageDenoise.dll	2022-07-10T19:54:14.616Z
+Engine/Binaries/Win64/tbb12.dll	2022-07-10T19:54:17.092Z
+Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2022-07-10T19:56:27.702Z
+Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2022-07-10T19:53:37.895Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2022-07-10T19:53:32.993Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundationPROFILE_x64.dll	2022-07-10T19:53:45.887Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDKPROFILE_x64.dll	2022-07-10T19:53:45.952Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3PROFILE_x64.dll	2022-07-10T19:53:45.543Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CookingPROFILE_x64.dll	2022-07-10T19:53:45.524Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CommonPROFILE_x64.dll	2022-07-10T19:53:45.263Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_ClothingPROFILE_x64.dll	2022-07-10T19:53:42.779Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_LegacyPROFILE_x64.dll	2022-07-10T19:53:43.782Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFrameworkPROFILE_x64.dll	2022-07-10T19:53:44.319Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvClothPROFILE_x64.dll	2022-07-10T19:53:44.664Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2022-07-10T19:53:37.942Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2022-07-10T19:53:53.118Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2022-07-10T19:53:53.135Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2022-07-10T19:53:37.311Z
+Engine/Binaries/ThirdParty/OpenXR/win64/openxr_loader.dll	2022-07-10T19:53:38.002Z
+Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2022-07-10T19:53:37.984Z
+Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/Win64/GfnRuntimeSdk.dll	2022-07-10T19:53:37.304Z
+Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2022-07-10T19:53:53.208Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2022-07-10T19:53:53.473Z
+ThicketTestProject/Content/Movies/thicket logo.mp4	2022-08-14T00:57:48.700Z
+ThicketTestProject.exe	2022-08-14T02:24:47.646Z
